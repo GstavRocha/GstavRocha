@@ -19,7 +19,7 @@ Contributions:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GstavRocha&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true)
 
-<h2 align="center">Se conecte comigo</h2>
+<h3 align="center">My Contact</h2>
 <div align="center"> 
 
   <a href = "rocha.gustavo@escolar.ifrn.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
