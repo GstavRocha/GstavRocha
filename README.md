@@ -21,7 +21,7 @@ ____________________________________________________
 
  
 Preferred programming languages:
-<div aling="center">
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GstavRocha&count_private=true&theme=midnight-purple&hide_border=true)
 
@@ -33,7 +33,7 @@ Contributions:
 
 ____________________________________________________
 
-<h3 color='green'> About Me:</h3>
+=
 <h3 align="center">My Contact</h2>
 <div align="center"> 
 
