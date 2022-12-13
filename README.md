@@ -23,7 +23,7 @@ Preferred programming languages:
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GstavRocha&count_private=true&theme=midnight-purple&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GstavRocha=8)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GstavRocha_count=8)]
 
 Contributions:
 
