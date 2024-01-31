@@ -5,8 +5,6 @@ ____________________________________________________
 <h3 color='green'> About Me:</h3>
 <p>Graduating Systems and Techonlogy for Internet | IFRN - Parnamirim (RN/BR).</p>
 
-* Self Confidence
-
 
 <b>Communties:</b>
 
