@@ -6,9 +6,6 @@ ____________________________________________________
 <p>Graduating Systems and Techonlogy for Internet | IFRN - Parnamirim (RN/BR).</p>
 
 * Self Confidence
-* Supports Criticism
-* Maturity
-* Deal With Pressure
 
 
 <b>Communties:</b>
