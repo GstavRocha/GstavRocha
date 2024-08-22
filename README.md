@@ -18,7 +18,7 @@ Preferred programming languages:
 <div align="center">
 
 
-![Top Langs][![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GstavRocha)](https://github.com/GstavRocha/github-readme-stats)
+![Top Langs][![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GstavRocha)](https://github.com/anuraghazra/github-readme-stats)
 
 Contributions:
 
