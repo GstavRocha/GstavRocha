@@ -18,7 +18,7 @@ Preferred programming languages:
 <div align="center">
 
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GstavRocha&langs_count=8&count_private=true&theme=midnight-purple&hide_border=false)
+![Top Langs][![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GstavRocha)](https://github.com/GstavRocha/github-readme-stats)
 
 Contributions:
 
